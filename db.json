@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "id": "1058",
+      "name": "Casino online",
+      "price": "12000",
+      "category": {
+        "id": "2",
+        "nome": "Tecnologia"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a422",
+      "name": "Feira do Livro 2025",
+      "price": "3000",
+      "category": {
+        "id": "2",
+        "nome": "Tecnologia"
+      },
+      "cost": 1560,
+      "services": [
+        {
+          "name": "Gestor de ADS",
+          "cost": "1200",
+          "description": "teste aqui",
+          "id": "0b40f5be-831a-4336-bc06-f92df0a2ee8f"
+        }
+      ]
+    },
+    {
+      "id": "f4bb",
+      "name": "Mario World",
+      "price": "3620",
+      "category": {
+        "id": "3",
+        "nome": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a577",
+      "name": "Nintendo 61",
+      "price": "1360",
+      "category": {
+        "id": "3",
+        "nome": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "40f0",
+      "name": "Infra DrogaRaia",
+      "price": "3620",
+      "category": {
+        "id": "1",
+        "nome": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "3a5a",
+      "name": "Click Jogos",
+      "price": "15690",
+      "category": {
+        "id": "2",
+        "nome": "Tecnologia"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Tecnologia"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    }
+  ]
+}

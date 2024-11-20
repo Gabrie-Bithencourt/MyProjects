@@ -1,0 +1,23 @@
+.contato_container {
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contato_container span {
+    width: 100%;
+    display: flex;
+    color: #4d4d4d;
+}
+
+.contato_container p {
+    margin-right: 0.5em;
+    font-weight: bold;
+    color: black;
+}
+
+.contato_container span a {
+    color: #4d4d4d;
+}
