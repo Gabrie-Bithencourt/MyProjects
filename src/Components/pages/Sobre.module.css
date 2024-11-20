@@ -1,0 +1,14 @@
+.sobre_container {
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sobre_container h2 {
+    margin: 0.2em 0 ;
+}
+
+.sobre_container p {
+    color: #4D4D4D;
+}
