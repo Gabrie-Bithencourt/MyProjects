@@ -11,7 +11,7 @@
 <br>
 
 # Baixar e Testar Localmente
-<p>Para rodar o MovieLib, basta clonar o repositório e rodar os seguintes comandos:</p>
+<p>Para rodar o MyProjects, basta clonar o repositório e rodar os seguintes comandos:</p>
 <ul>
   <li>npm install</li>
   <li>npm run dev</li>
