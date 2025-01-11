@@ -6,7 +6,7 @@
 <p>Tecnologias Utilizadas:</p>
 <ul>
   <li>React JS</li>
-  <li>Lib Json Server</li>
+  <li>Lib Json Server como backend</li>
 </ul>
 <br>
 
@@ -15,5 +15,6 @@
 <ul>
   <li>npm install</li>
   <li>npm run dev</li>
+  <li>npm run backend</li>
 </ul>
 
