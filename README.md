@@ -12,7 +12,9 @@
 
 <p>Preview:</p>
 Assita ao vídeo demonstração do sistema funcionando: https://www.youtube.com/watch?v=8NJedS_nQNY
-<br>
+
+
+
 # Baixar e Testar Localmente
 <p>Para rodar o MyProjects, basta clonar o repositório e rodar os seguintes comandos:</p>
 <ul>
