@@ -5,7 +5,15 @@
 
 <p>Tecnologias Utilizadas:</p>
 <ul>
-  <li>Javascript</li>
   <li>React JS</li>
+  <li>Lib Json Server</li>
 </ul>
 <br>
+
+# Baixar e Testar Localmente
+<p>Para rodar o MovieLib, basta clonar o repositório e rodar os seguintes comandos:</p>
+<ul>
+  <li>npm install</li>
+  <li>npm run dev</li>
+</ul>
+
