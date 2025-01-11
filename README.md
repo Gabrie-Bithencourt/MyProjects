@@ -11,7 +11,10 @@
 <br>
 
 <p>Preview:</p>
-<iframe src="https://drive.google.com/uc?id=1-pPaaGrko1WRPUD7cy-FmCXVmdoul6n5"></iframe>
+<iframe src="https://drive.google.com/file/d/1-pPaaGrko1WRPUD7cy-FmCXVmdoul6n5/preview" 
+        width="640" 
+        height="480" 
+        allow="autoplay"></iframe>
 <img src="https://drive.google.com/uc?id=1GaMdENYhkiFBek1BGTaTYwPhmRj8i82J">
 
 # Baixar e Testar Localmente
