@@ -11,9 +11,7 @@
 <br>
 
 <p>Preview:</p>
-<video>
-  <source src="https://drive.google.com/uc?id=1-pPaaGrko1WRPUD7cy-FmCXVmdoul6n5" type="video/mp4"></source>
-</video>
+<video src="https://drive.google.com/uc?id=1-pPaaGrko1WRPUD7cy-FmCXVmdoul6n5" controls width="600"></video>
 <img src="https://drive.google.com/uc?id=1GaMdENYhkiFBek1BGTaTYwPhmRj8i82J">
 
 # Baixar e Testar Localmente
