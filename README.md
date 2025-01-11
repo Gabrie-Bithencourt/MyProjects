@@ -11,7 +11,7 @@
 <br>
 
 <p>Preview:</p>
-Assita ao vídeo demonstração do sistema funcionando: https://www.youtube.com/watch?v=8NJedS_nQNY
+Assita ao vídeo demonstração do projeto: https://www.youtube.com/watch?v=8NJedS_nQNY
 
 
 
