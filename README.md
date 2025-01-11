@@ -11,8 +11,7 @@
 <br>
 
 <p>Preview:</p>
-https://www.youtube.com/watch?v=8NJedS_nQNY
-<img src="https://drive.google.com/uc?id=1GaMdENYhkiFBek1BGTaTYwPhmRj8i82J">
+Assita ao vídeo demonstração do sistema funcionando: https://www.youtube.com/watch?v=8NJedS_nQNY
 
 # Baixar e Testar Localmente
 <p>Para rodar o MyProjects, basta clonar o repositório e rodar os seguintes comandos:</p>
